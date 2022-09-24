@@ -8,7 +8,7 @@ classification. Model has been pretrained on the **ImageNet** dataset.
 | Metric      | Value                                                            |
 |-------------|------------------------------------------------------------------|
 | **Type**    | Classification                                                   |
-| **Size**    | 232 MB                                                           |
+| **Size**    | 232.57 MB (243871004 bytes)                                      |
 | **SHA-256** | 4e884db8603212651519b3de2ebed24904d855602a5ca171dd3a679eb0ac9c7c |
 
 Download:
